@@ -1,4 +1,4 @@
-package com.ayush.diceroller
+package com.harsh.diceroller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
